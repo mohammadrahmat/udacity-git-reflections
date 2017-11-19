@@ -16,14 +16,14 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    We can detect conflicts !
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Saving files, sharing them by either manually handing them over or uploading them to a cloud which is an easier way than manual. Then looking for changes manually or using diff on windows cmd. Would be a pain though!. Ofcourse git and github would be easier.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    WHen I am trying to add a new feature to my project without breaking up the main branch. It wont break the main branch in production.!
